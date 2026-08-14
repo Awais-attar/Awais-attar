@@ -44,19 +44,19 @@
 ### 🌐 Web & Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,tailwind,bootstrap,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap,nodejs" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vscode" />
 </p>
 
 ### 🤖 AI & Development Tools
