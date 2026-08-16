@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Awais!
+# 👋 Hi, I'm Attar Mohammad Awais!
 
 ### 💻 MCA Graduate • Software Developer • Python & Java • AI & Web Development
 
